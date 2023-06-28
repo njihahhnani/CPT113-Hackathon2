@@ -14,11 +14,33 @@ Knight's Quest is more than just a game; it's an immersive journey that brings y
 
 ### Features of Knight's Quest
 
-blablablabla
+- Multiple Endings: Introduce different endings based on the player's choices throughout the game. Each ending can be influenced by the player's actions, decisions, or the fulfillment of certain conditions.
+
+- Side Quests: Include optional side quests or missions that the player can undertake alongside which if the player found the magic ring, they can choose to pick it or not. If they pick it, they will have the ability to reach the castle faster.
+
+- Progress Tracking: The current question is stored in a variable (currentQuestion) to keep track of the player's progress through the game.
+
+- Input Validation: The code validates the player's input and displays an error message for invalid choices.
+
+- Linked List Data Structure: The questions are stored in a linked list data structure (LinkedList) to maintain their order and facilitate traversal.
+
+- Error Handling: The code includes basic error handling. If the file fails to open, the program returns an error code (1)
 
 ### How to play Knight's Quest
 
-blablabla
+Once the game starts, you will see a welcome message displayed on the screen. Take a moment to read it.
+
+Read the question and choices: The game will present you with a question. Read the question carefully, as well as the two choices provided.
+
+Enter either 1 or 2 to make your choice. The choices correspond to the options provided with the question. Type the number and press Enter.
+
+Depending on your choice, the game will navigate to the next question. If your choice leads to a valid "if true" or "if false" question, the game will display that question. Otherwise, if there are no more valid questions, the game will end.
+
+Repeat the steps for each new question presented to you. Read the question, select a choice, and proceed with the game flow.
+
+The game will continue until there are no more valid questions to display. At that point, the game will display a "Thank you for playing!" message.
+
+Once the game ends, you can exit the program.
 
 ### How object-oriented concepts were used to develop Knight's Quest
 
