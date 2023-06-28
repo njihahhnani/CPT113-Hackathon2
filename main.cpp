@@ -44,7 +44,7 @@ int main()
     }
 
     currentQuestion = questions->at(0);
-    cout << "Welcome to Enter The Castle text-based game!" << endl;
+    cout << "Welcome to Knight's Quest: The Enchanted Castle text-based game!" << endl;
 
     do
     {
