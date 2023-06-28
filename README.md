@@ -99,4 +99,4 @@ Game ending 2: Player wins
 
 ### A link to game demo video
 
-blablabla
+https://youtu.be/wwShfOUf68c
