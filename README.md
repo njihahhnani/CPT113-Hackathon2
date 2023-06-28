@@ -2,7 +2,15 @@
 
 ### Description of Knight's Quest
 
-blablablablabla
+Knight's Quest is an enjoyable text - based adventure game that takes the player on an adventurous journey of finding a long lost item that is repeatedly mentioned in urban legends which can unlock the mysterious castle – a legendary magic ring.
+
+Immerse yourself in a captivating gaming experience as you step into the role of a valiant knight in our extraordinary adventure, Knight's Quest. Prepare to embark on a journey that will push the boundaries of your imagination and test your courage to its limits.
+
+You'll find yourself in the darkness of night, wandering a painstakingly designed terrain, in this aesthetically breathtaking game set in a realm of enigma and wonder. You'll travel through ancient woodlands and perilous terrains, clad in dazzling armor and armed with a trusty light, motivated by an insatiable quest to discover the secrets of a famous castle.
+
+As the story unraveled with every choice having consequences, what would be your move? Would you successfully obtain said legendary ring?
+
+Knight's Quest is more than just a game; it's an immersive journey that brings you to a world where magic and reality collide. Will you accept the challenge, unlock the castle's vast wisdom, and etch your name in legend? Your actions will determine the fate of the enchanted planet. Begin this extraordinary journey today and become the hero that fate has chosen.
 
 ### Features of Knight's Quest
 
