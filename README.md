@@ -90,11 +90,12 @@ While the primary functionality of the linked list in the game is to maintain th
 
 Game ending 1: Player loses
 
-![lose](https://github.com/njihahhnani/CPT113-Hackathon2/assets/117801046/7ce87b97-a277-4aa9-9088-0cafc15df780)
+![lose](https://github.com/njihahhnani/CPT113-Hackathon2/assets/117801046/1a7150c8-61ae-4715-b131-59f429d31c7c)
+
 
 Game ending 2: Player wins
 
-![win](https://github.com/njihahhnani/CPT113-Hackathon2/assets/117801046/616a59f1-d57a-48c8-b599-d74480594564)
+![win](https://github.com/njihahhnani/CPT113-Hackathon2/assets/117801046/01a37634-f32c-4dbb-b5a6-b2898c6d1d5d)
 
 
 ### A link to game demo video
