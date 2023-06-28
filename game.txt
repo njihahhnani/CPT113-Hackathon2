@@ -1,7 +1,7 @@
-Are you ready to start the adventure?;Yes;No;2;-1
-Unfortunately, you have died! Start a new game?;Yes;No;0;-1
-You are doing an attempt to enter the Don's castle. You are now in the castle's courtyard.;Walk slowly without detection;Just walk past the guards;3;1
-You are now in the castle garden, you have encountered a magic ring, pick it?;Yes;No;6;4
-You not picked the ring. You are now walking past the garden and into the castle, proceed?;Yes;No;5;1
-You are now in the front of the castle, enter it?;Yes;No;6;1
-You are now inside the castle, congratulations!;End game;New game;-1;0
+Are you ready to start this extraordinary adventure?;Yes;No;2;-1
+Uh oh, you got caught by the guards, you are now forever trapped in the dungeon below the castle! Start a new game?;Yes;No;0;-1
+You are doing an attempt to enter the Enchanted castle that is full of mystery waiting to be unfold. You are now in the castle's courtyard.;Walk slowly without detection;Just walk past the guards;3;1
+You are now in the castle's garden, you have encountered a magic ring, pick it?;Yes;No;6;4
+You did not take the ring. You are now walking past the garden and into a small hole that led you to the castle's garden, proceed?;Yes;No;5;1
+You are now in the front of the door of the magnificent castle, enter it?;Yes;No;6;1
+You are now inside the Enchanted castle, Congratulations!;End game;New game;-1;0
