@@ -67,9 +67,11 @@ While the primary functionality of the linked list in the game is to maintain th
 ### Screenshots of Knight's Quest
 
 Game ending 1: Player loses
+
 ![lose](https://github.com/njihahhnani/CPT113-Hackathon2/assets/117801046/7ce87b97-a277-4aa9-9088-0cafc15df780)
 
 Game ending 2: Player wins
+
 ![win](https://github.com/njihahhnani/CPT113-Hackathon2/assets/117801046/616a59f1-d57a-48c8-b599-d74480594564)
 
 
